@@ -8,13 +8,13 @@ elif score >= 80:
     print("You get an A.")
 elif score >= 70:
     print(f"Not bad, your score was {score}.")
-    print("You get an B.")
+    print("You get a B.")
 elif score >= 60:
     print(f"Okay, your score was {score}.")
-    print("You get an C.")
+    print("You get a C.")
 elif score >= 50:
     print(f"Hmm, your score was {score}.")
-    print("You get an D.")
+    print("You get a D.")
 else:
     print(f"Oh, snap, your score was {score}.")
     print("You get an F.")
